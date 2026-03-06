@@ -25,3 +25,5 @@ web-build/
 # OS
 .DS_Store
 Thumbs.db
+%ProgramData%/
+*.zip
