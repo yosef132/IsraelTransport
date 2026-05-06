@@ -8,9 +8,10 @@ The project was developed as an academic final project for Ruppin Academic Cente
 
 ### App Screens
 
-![Israel Transport screenshots - sign up, driver schedule, search trips, vehicles management](docs/screenshots/israel-transport-screenshots-1.svg)
+![Israel Transport screenshots - sign up, driver schedule, search trips, vehicles management](docs/screenshots/israel-transport-screenshots-1.jpg)
 
-![Israel Transport screenshots - welcome, login, client home, admin dashboard](docs/screenshots/israel-transport-screenshots-2.svg)
+![Israel Transport screenshots - welcome, login, client home, admin dashboard](docs/screenshots/israel-transport-screenshots-2.jpg)
+
 
 ## Main Features
 
